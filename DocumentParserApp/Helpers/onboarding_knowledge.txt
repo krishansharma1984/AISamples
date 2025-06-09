@@ -1,0 +1,6 @@
+Step 1: Request Access Card - Go to the access card request form and fill out the employee details.
+Step 2: Create AD Profile - Create the Active Directory profile for the new employee in the system.
+Step 3: Schedule Induction - Arrange an induction training session for the new employee.
+Step 4: Setup Workstation - Configure the workstation and necessary software for the employee.
+Step 5: Assign Manager - Assign a manager or mentor to the new employee for onboarding support.
+

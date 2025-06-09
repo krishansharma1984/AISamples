@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "DocumentParserApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62579;http://localhost:62580"
+    }
+  }
+}
